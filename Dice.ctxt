@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dice\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\n\ Constructor\ to\ do\ an\ initial\ roll\ to\ set\ the\ first\ value\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\n\ Getter\ for\ value\n\ @return\ Die\ value\n
+comment3.params=dieNumber
+comment3.target=int\ getValue(int)
+comment4.params=
+comment4.target=void\ roll()
+comment4.text=\n\ Roll\ the\ die\!\ Generate\ random\ number\ 1\ <\=\ x\ <\=\ 6\ and\ assign\ to\ value\n\ Note\ that\ roll\ does\ NOT\ return\ the\ new\ value\n
+comment5.params=
+comment5.target=int\ rollAndGetValue()
+comment5.text=\n\ Roll\ the\ die\ and\ return\ the\ new\ value\n\ @return\ Die\ value\n
+numComments=6
